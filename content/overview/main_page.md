@@ -4,7 +4,7 @@ title: Overview
 nav_order: 1
 has_children: true
 has_toc: false
-permalink: /overview/
+permalink: /
 ---
 <style type="text/css">
 .sh1 {margin: 0;}
@@ -29,14 +29,14 @@ PSP and TSP are intended to provide individuals and teams with a framework for c
 <div>
 	<img src="/images/overview.png" width="1166" height="686" usemap="#overview" alt="" />
 	<map name="overview">
-        <area target="" alt="Direction" title="Direction" href="/phases/direction" coords="0,0,182,204" shape="rect">
-        <area target="" alt="Management" title="Management" href="/phases/management" coords="183,418,-1,209" shape="rect">
+        <area target="" alt="Direction" title="Direction" href="#" coords="0,0,182,204" shape="rect">
+        <area target="" alt="Management" title="Management" href="#" coords="183,418,-1,209" shape="rect">
         <area target="" alt="Operations" title="Operations" href="/phases/operations" coords="181,648,1,425" shape="rect">
-        <area target="" alt="Business Management" title="Business Management" href="/phases/direction/business_management" coords="189,0,1159,204" shape="rect">
-        <area target="" alt="Process Management" title="Process Management" href="/phases/management/process_management" coords="191,210,1159,275" shape="rect">
-        <area target="" alt="Project Management" title="Project Management" href="/phases/management/project_management" coords="191,327,1157,280" shape="rect">
-        <area target="" alt="Resource Management" title="Resource Management" href="/phases/management/resource_management" coords="191,333,1160,402" shape="rect">
-        <area target="" alt="Specific Project Management" title="Specific Project Management" href="/phases/operations/specific_project_management" coords="191,422,1162,506" shape="rect">
+        <area target="" alt="Business Management" title="Business Management" href="#" coords="189,0,1159,204" shape="rect">
+        <area target="" alt="Process Management" title="Process Management" href="#" coords="191,210,1159,275" shape="rect">
+        <area target="" alt="Project Management" title="Project Management" href="#" coords="191,327,1157,280" shape="rect">
+        <area target="" alt="Resource Management" title="Resource Management" href="#" coords="191,333,1160,402" shape="rect">
+        <area target="" alt="Specific Project Administration" title="Specific Project Administration" href="/phases/operations/specific_project_administration" coords="191,422,1162,506" shape="rect">
         <area target="" alt="Software Development and Maintenance" title="Software Development and Maintenance" href="/phases/operations/software_development_and_maintenance" coords="191,512,1162,595" shape="rect">
     </map>
 </div>
