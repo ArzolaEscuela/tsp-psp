@@ -29,8 +29,9 @@ has_toc: false
 <hr>
 
 ## General Purpose
-Placeholder
+Systematic realization of activities for analysis, design, construction, integration and product tests of new or modified software fulfilling the specified requirements.
 
 ## Process Objectives
-* Placeholder 1
-* Placeholder 2
+* Consistency of output products with input products in each fase of the development life cycle through verification, calidation or test activities.
+* Sustainability of later cycles or future maintainability projects through integration of the Software Configuration from the current cycle.
+* Carry out fase activities through the fulfillment of the current development plan.
