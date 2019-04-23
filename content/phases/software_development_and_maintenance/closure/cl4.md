@@ -1,6 +1,6 @@
 ---
 layout: page
-title: (Cl4)
+title: (Cl4) Registered Performed Activities
 nav_order: 4
 parent: Closure Activities
 grand_parent: Software Development and Maintenance

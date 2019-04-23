@@ -1,6 +1,6 @@
 ---
 layout: page
-title: (Cl1)
+title: (Cl1) Document Manual of Maintenance
 nav_order: 1
 parent: Closure Activities
 grand_parent: Software Development and Maintenance
