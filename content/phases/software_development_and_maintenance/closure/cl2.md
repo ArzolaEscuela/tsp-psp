@@ -12,8 +12,8 @@ permalink: /phases/operations/software_development_and_maintenance/closure/cl2/
 # (R4) Sytem Test Plan Elaboration
 
 ## Participating roles:
-* <a href="/roles/">_**Analyst**_</a>
-* <a href="/roles/">_**Tester**_</a>
+* <a href="/roles/">_**Auditor**_</a>
+* <a href="/roles/">_**Manual Responsible**_</a>
 
 ## Activity Description
 * Verification of manual of maintenance.
