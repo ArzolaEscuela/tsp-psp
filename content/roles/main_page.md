@@ -23,3 +23,11 @@ Role name: Capacitation required to fulfill roles.
 * _**Software Development and Maintenance Manager:**_ Self explanatory, requires knowdledge and experience developing and giving maintenance to software products.
 * _**TSP Leader:**_ Team management and leadership skills, count with both PSP and TSP certified training (Note: Could be the same person taking in the role as the specific project administrator).
 * _**TSP Coach:**_ Have certified training for TSP mentoring, one on one coaching experience, high level communication skills to keep everyone on the loop, and naturally, coaching skills (Which may involve leading members to "fail on their own").
+* _**Analyst**_ Knowledge and experience in obtaining, specifying and analysing requirements.
+* _**User Interface Designer**_ Knowledge in design of user interfaces and ergonomic criteria.
+* _**Designer**_ Knowledge and experience in designing the structure of the components. 
+* _**Programmer**_ Knowledge and/or experience in programming, integration and unit testing.
+* _**Tester**_ Knowledge and experience in planning and execution of integration and system testing.  
+* _**Auditor**_ Knowledge in review techniques and experience in software development and maintenance.
+* _**Manual Responsible**_ Knowledge in drafting techniques and experience in software development and maintenance.
+* _**User**_ No training required.
