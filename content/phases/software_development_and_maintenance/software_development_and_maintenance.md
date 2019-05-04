@@ -7,6 +7,11 @@ has_children: true
 has_toc: false
 ---
 
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="/assets/js/jquery.rwdImageMaps.min.js"></script>
+</head>
+
 # Software Development and Maintenance
 
 <hr>
@@ -60,8 +65,6 @@ has_toc: false
    </map>
 </div>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="/assets/js/jquery.rwdImageMaps.min.js"></script>
 <script>$(document).ready(function(e) {	$('img[usemap]').rwdImageMaps();});</script>
 
 <sub>Click on any of the areas above to get more in-depth information.</sub>

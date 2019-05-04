@@ -6,6 +6,12 @@ has_children: true
 has_toc: false
 permalink: /
 ---
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="/assets/js/jquery.rwdImageMaps.min.js"></script>
+</head>
+
+
 <style type="text/css">
 .sh1 {margin: 0;}
 .tg  {line-height: 0;border-collapse:collapse;border-spacing:0;padding:0px;margin:0;border: 0;}
@@ -41,8 +47,6 @@ PSP and TSP are intended to provide individuals and teams with a framework for c
     </map>
 </div>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="/assets/js/jquery.rwdImageMaps.min.js"></script>
 <script>$(document).ready(function(e) {	$('img[usemap]').rwdImageMaps();});</script>
 
 <sub>Click on any of the areas above to get more in-depth information.</sub>
