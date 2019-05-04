@@ -9,7 +9,7 @@ permalink: /phases/operations/software_development_and_maintenance/closure/cl2/
 
 
 
-# (R4) Sytem Test Plan Elaboration
+# (Cl2) Verification of Manual of Maintenance
 
 ## Participating roles:
 * <a href="/roles/">_**Auditor**_</a>
