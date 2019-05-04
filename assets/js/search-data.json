@@ -149,7 +149,7 @@
   "21": {
     "id": "21",
     "title": "(Cl2) Verification of Manual of Maintenance",
-    "content": "(Cl2) Verification of Manual of Maintenance Participating roles: Auditor Manual Responsible Activity Description Verification of manual of maintenance. Correction of defects found based on the verification report and obtention of correction approval.",
+    "content": "(R4) Sytem Test Plan Elaboration Participating roles: Auditor Manual Responsible Activity Description Verification of manual of maintenance. Correction of defects found based on the verification report and obtention of correction approval.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/closure/cl2/",
     "relUrl": "/phases/operations/software_development_and_maintenance/closure/cl2/"
   },
@@ -526,8 +526,8 @@
   },
   "75": {
     "id": "75",
-    "title": "(R4) System Test Plan Elaboration",
-    "content": "(R4) System Test Plan Elaboration Participating roles: Analyst Tester Activity Description Elaboration or modification of system test plan.",
+    "title": "(R4) Sytem Test Plan Elaboration",
+    "content": "(R4) Sytem Test Plan Elaboration Participating roles: Analyst Tester Activity Description Elaboration or modification of system test plan.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/r4/",
     "relUrl": "/phases/operations/software_development_and_maintenance/requirements/r4/"
   },

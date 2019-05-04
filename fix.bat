@@ -7,4 +7,3 @@ fart -i -r *.html roles/ tsp-psp/roles/
 fart -i -r *.html tsp-psp/tsp-psp/roles/ tsp-psp/roles/
 fart -i -r *.html phases/ tsp-psp/phases/
 fart -i -r *.html tsp-psp/tsp-psp/phases/ tsp-psp/phases/
-fart -i -r *.html "<link rel=\"stylesheet\" href=\"https://arzolaescuela.github.io/tsp-psp/assets/css/just-the-docs.css\">" "<link rel=\"stylesheet\" href=\"https://arzolaescuela.github.io/tsp-psp/assets/css/just-the-docs.css\"><script src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js\"></script>"
