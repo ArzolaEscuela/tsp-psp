@@ -62,7 +62,7 @@ redirect_from:
     <area target="" alt="C3" title="C3" href="/phases/operations/specific_project_administration/closure/c3/" coords="505,1207,668,1280" shape="rect">
     <area target="" alt="C4" title="C4" href="/phases/operations/specific_project_administration/closure/c4/" coords="231,1204,393,1280" shape="rect">
     <area target="" alt="" title="" href="/documents/acceptance_protocol.doc" coords="563,243,735,294" shape="rect">
-    <area target="" alt="" title="" href="/documents/assigned_roles_and_responsibilities.doc" coords="766,230,943,319" shape="rect">
+    <area target="" alt="" title="" href="/documents/assigned_roles_and_responsibilities.xlsx" coords="766,230,943,319" shape="rect">
     <area target="" alt="" title="" href="/documents/acquisition_and_training_plan.doc" coords="990,217,1165,291" shape="rect">
     <area target="" alt="" title="" href="/documents/cycles_and_work_product_list.doc" coords="1223,416,1401,491" shape="rect">
     <area target="" alt="" title="" href="/documents/product_backlog.doc" coords="1078,416,1219,468" shape="rect">

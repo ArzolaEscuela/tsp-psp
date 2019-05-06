@@ -13,7 +13,7 @@ The following is a list of the different documents that will support the develop
 
 ## Specific Project Administration
 * [Acceptance Protocol](/documents/acceptance_protocol.doc)
-* [Assigned Roles And Responsabilities](/documents/assigned_roles_and_responsibilities.doc)
+* [Assigned Roles And Responsabilities](/documents/assigned_roles_and_responsibilities.xlsx)
 * [Acquisition And Training Plan](/documents/acquisition_and_training_plan.doc)
 * [Cycles And Work Product List](/documents/cycles_and_work_product_list.doc)
 * [Product Backlog](/documents/product_backlog.doc)
