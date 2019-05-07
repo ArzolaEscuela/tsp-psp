@@ -17,7 +17,6 @@ Role name: Capacitation required to fulfill roles.
 
 * _**Client:**_ Knowledge in the proper means and ways to give out new change requests.
 * _**(Specific) Project Admin:**_ Leadership capacity with experience in the fields of decision making, strategic planning, project, delegation, supervision and personnel management, alongside with finance knowledge and software development knowledge.
-* _**Process Manager:**_ Placeholder
 * _**Subcontract Responsible:**_ Project administration experience.
 * _**Work Team:**_ Each member must be knowledgeable and have experience on their designated area.
 * _**Software Development and Maintenance Manager:**_ Self explanatory, requires knowdledge and experience developing and giving maintenance to software products.
