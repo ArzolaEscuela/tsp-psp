@@ -65,14 +65,13 @@ redirect_from:
     <area target="" alt="" title="" href="/documents/assigned_roles_and_responsibilities.xlsx" coords="766,230,943,319" shape="rect">
     <area target="" alt="" title="" href="/documents/acquisition_and_training_plan.doc" coords="990,217,1165,291" shape="rect">
     <area target="" alt="" title="" href="/documents/cycles_and_work_product_list.doc" coords="1223,416,1401,491" shape="rect">
-    <area target="" alt="" title="" href="/documents/product_backlog.doc" coords="1078,416,1219,468" shape="rect">
+    <area target="" alt="" title="" href="/documents/product_backlog.xlsx" coords="1078,416,1219,468" shape="rect">
     <area target="" alt="" title="" href="/documents/risk_management_plan.doc" coords="315,425,482,511" shape="rect">
     <area target="" alt="" title="" href="/documents/project_plan.doc" coords="113,641,221,692" shape="rect">
     <area target="" alt="" title="" href="/documents/development_plan.doc" coords="283,641,431,693" shape="rect">
     <area target="" alt="" title="" href="/documents/verification_plan.doc" coords="474,640,642,692" shape="rect">
     <area target="" alt="" title="" href="/documents/validation_report.doc" coords="870,644,1039,698" shape="rect">
     <area target="" alt="" title="" href="/documents/weekly_status_report.doc" coords="611,722,795,776" shape="rect">
-    <area target="" alt="" title="" href="/documents/user_documentation.doc" coords="301,869,470,927" shape="rect">
     <area target="" alt="" title="" href="/documents/pointers_and_agreements_minute.doc" coords="237,768,400,844" shape="rect">
     <area target="" alt="" title="" href="/documents/corrective_actions.doc" coords="349,1117,523,1178" shape="rect">
     <area target="" alt="" title="" href="/documents/tracing_document.doc" coords="954,1062,1101,1132" shape="rect">
