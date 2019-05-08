@@ -153,6 +153,7 @@ function initSearch() {
 function pageFocus() {
   var mainContent = document.querySelector('.js-main-content');
   mainContent.focus();
+  console.log(mainContent)
 }
 
 
