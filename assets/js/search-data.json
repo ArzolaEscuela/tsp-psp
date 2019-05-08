@@ -316,157 +316,157 @@
   },
   "45": {
     "id": "45",
+    "title": "Roles",
+    "content": "Roles Taking part in the TSP/PSP process, will require the involvement of different parties that fulfill very specific roles. The following format will be followed to present them: Role name: Capacitation required to fulfill roles. Client: Knowledge in the proper means and ways to give out new change requests. (Specific) Project Admin: Leadership capacity with experience in the fields of decision making, strategic planning, project, delegation, supervision and personnel management, alongside with finance knowledge and software development knowledge. Subcontract Responsible: Project administration experience. Work Team: Each member must be knowledgeable and have experience on their designated area. Software Development and Maintenance Manager: Self explanatory, requires knowdledge and experience developing and giving maintenance to software products. TSP Leader: Team management and leadership skills, count with both PSP and TSP certified training (Note: Could be the same person taking in the role as the specific project administrator). TSP Coach: Have certified training for TSP mentoring, one on one coaching experience, high level communication skills to keep everyone on the loop, and naturally, coaching skills (Which may involve leading members to “fail on their own”). Analyst Knowledge and experience in obtaining, specifying and analysing requirements. User Interface Designer Knowledge in design of user interfaces and ergonomic criteria. Designer Knowledge and experience in designing the structure of the components. Programmer Knowledge and/or experience in programming, integration and unit testing. Tester Knowledge and experience in planning and execution of integration and system testing. Auditor Knowledge in review techniques and experience in software development and maintenance. Manual Responsible Knowledge in drafting techniques and experience in software development and maintenance. User No training required.",
+    "url": "https://arzolaescuela.github.io/tsp-psp/roles/",
+    "relUrl": "/roles/"
+  },
+  "46": {
+    "id": "46",
     "title": "Overview",
     "content": "PSP/TSP Personal Software Process (PSP) is a guide intended for proven-effective, self-disciplined methods, targeted to constantly improving development times, code quality, and overall requirement compliance of an individual’s software development process. Team Software Process (TSP) defines a fundamental draft of skills and knowledge, needed to handle teams composed of PSP trained members, and effectively manage and organize them to produce quality products that meet the functional, architectural, and property requirements. PSP and TSP are intended to provide individuals and teams with a framework for creating or tailoring processes that all team members can follow, for communicating in a common vocabulary, and for planning and tracking their work using a commonly accepted set of measurements and standards. Click on any of the areas above to get more in-depth information. Implementing TSP/PSP can be accomplished by working on three main processes: Direction: Gathers client requirements, creates objectives and goals based on said requirements, and plans for its development. Management: Mainly focusing on team coordination, tool making and provision, resource gathering, and process and project management. Operations: Focuses on the development cycle of concrete software modules or products, and the different mantainability and development tasks for the software. These processes have sub-processes that further delve into their intended end-goal, but ultimately go from project acquisition to development planning to project development (top-to-bottom).",
     "url": "https://arzolaescuela.github.io/tsp-psp/",
     "relUrl": "/"
   },
-  "46": {
-    "id": "46",
-    "title": "Roles",
-    "content": "Roles Taking part in the TSP/PSP process, will require the involvement of different parties that fulfill very specific roles. The following format will be followed to present them: Role name: Capacitation required to fulfill roles. Client: Knowledge in the proper means and ways to give out new change requests. (Specific) Project Admin: Leadership capacity with experience in the fields of decision making, strategic planning, project, delegation, supervision and personnel management, alongside with finance knowledge and software development knowledge. Process Manager: Placeholder Subcontract Responsible: Project administration experience. Work Team: Each member must be knowledgeable and have experience on their designated area. Software Development and Maintenance Manager: Self explanatory, requires knowdledge and experience developing and giving maintenance to software products. TSP Leader: Team management and leadership skills, count with both PSP and TSP certified training (Note: Could be the same person taking in the role as the specific project administrator). TSP Coach: Have certified training for TSP mentoring, one on one coaching experience, high level communication skills to keep everyone on the loop, and naturally, coaching skills (Which may involve leading members to “fail on their own”). Analyst Knowledge and experience in obtaining, specifying and analysing requirements. User Interface Designer Knowledge in design of user interfaces and ergonomic criteria. Designer Knowledge and experience in designing the structure of the components. Programmer Knowledge and/or experience in programming, integration and unit testing. Tester Knowledge and experience in planning and execution of integration and system testing. Auditor Knowledge in review techniques and experience in software development and maintenance. Manual Responsible Knowledge in drafting techniques and experience in software development and maintenance. User No training required.",
-    "url": "https://arzolaescuela.github.io/tsp-psp/roles/",
-    "relUrl": "/roles/"
-  },
   "47": {
     "id": "47",
+    "title": "Work Products",
+    "content": "Work Products List The following is a list of the different documents that will support the development process of the project, divided for each of the different subprocesses: Specific Project Administration Acceptance Protocol Assigned Roles And Responsabilities Acquisition And Training Plan Cycles And Work Product List Product Backlog Risk Management Plan Project Plan Development Plan Verification Plan Validation Report Weekly Status Report Pointers &amp; Agreements Minute Corrective Actions Tracing Document Acceptance Document",
+    "url": "https://arzolaescuela.github.io/tsp-psp/work_products/",
+    "relUrl": "/work_products/"
+  },
+  "48": {
+    "id": "48",
     "title": "(P1) Analyze The Product Description",
     "content": "(P1) Analyze The Product Description Participating roles: (Specific) Project Admin Process Manager Software Development and Maintenance Manager Activity Description Check alongside the process manager the project description.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p1/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p1/"
   },
-  "48": {
-    "id": "48",
+  "49": {
+    "id": "49",
     "title": "(P10) Assign Start And End Date To All Activities And Delieverables",
     "content": "(P10) Assign Start And End Date To All Activities And Delieverables Participating roles: (Specific) Project Admin Activity Description Assign start and end dates for each of the activities in order to develop the work calendar, taking into account assigned resources, the development order and the individual dependencies of each activity.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p10/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p10/"
   },
-  "49": {
-    "id": "49",
+  "50": {
+    "id": "50",
     "title": "(P11) Identify, Evaluate and Describe Project Risks",
     "content": "(P11) Identify, Evaluate and Describe Project Risks Participating roles: (Specific) Project Admin Process Manager Software Development and Maintenance Manager Activity Description Identify, describe and evaluate the different risks that can arise and compromise the project. Contemplate any risks related to the work team, including the client and end users, risks with the technology, methodology, project organization (cost, time, resources and scope) or any external risks to the project. Identify the probability of each of the found risks, and the overall impact and cuantitative implications on the project. Prioritize the effects of risks over the project objectives. Create procedures in order to reduce the impact of risks, and document it all on the risk management plan.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p11/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p11/"
   },
-  "50": {
-    "id": "50",
+  "51": {
+    "id": "51",
     "title": "(P12) Create Or Update Project Plan",
     "content": "(P12) Create Or Update Project Plan Participating roles: (Specific) Project Admin Software Development and Maintenance Manager Activity Description Create or update the project plan before starting a new cycle.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p12/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p12/"
   },
-  "51": {
-    "id": "51",
+  "52": {
+    "id": "52",
     "title": "(P13) Create Or Update Development Plan",
     "content": "(P13) Create Or Update Development Plan Participating roles: (Specific) Project Admin Software Development and Maintenance Manager Activity Description Create or update the development plan in function of the project plan before starting a new cycle.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p13/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p13/"
   },
-  "52": {
-    "id": "52",
+  "53": {
+    "id": "53",
     "title": "(P14) Verify The Project And Development Plan",
     "content": "(P14) Verify The Project And Development Plan Participating roles: (Specific) Project Admin Software Development and Maintenance Manager Activity Description Self explanatory, only verify both the project and development time.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p14/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p14/"
   },
-  "53": {
-    "id": "53",
+  "54": {
+    "id": "54",
     "title": "(P15) Make Corrections To Previous Plans Using The Verification Plan",
     "content": "(P15) Make Corrections To Previous Plans Using The Verification Plan Participating roles: (Specific) Project Admin Activity Description Correct and defects found in the project plan and development plans, taking into account the VERIFICATION report, and obtain approval over the changes made.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p15/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p15/"
   },
-  "54": {
-    "id": "54",
+  "55": {
+    "id": "55",
     "title": "(P16) Validate The Project And Development Plan",
     "content": "(P16) Validate The Project And Development Plan Participating roles: Process Manager Activity Description Validate both the project plan and the development plan.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p16/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p16/"
   },
-  "55": {
-    "id": "55",
+  "56": {
+    "id": "56",
     "title": "(P17) Make Corrections To The Previous Plans Using The Validation Plan",
     "content": "(P17) Make Corrections To The Previous Plans Using The Validation Plan Participating roles: (Specific) Project Admin Activity Description Correct and defects found in the project plan and development plans, taking into account the VALIDATION report, and obtain approval over the changes made.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p17/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p17/"
   },
-  "56": {
-    "id": "56",
+  "57": {
+    "id": "57",
     "title": "(P2) Define An Acceptance Protocol For Each Delieverable",
     "content": "(P2) Define A Delievery / Acceptance Protocol For Each Delieverable Participating roles: Client (Specific) Project Admin Activity Description Define alongside the client, the acceptance protocol for each of the individual delieverables specified in the project description.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p2/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p2/"
   },
-  "57": {
-    "id": "57",
+  "58": {
+    "id": "58",
     "title": "(P3) Determine Required Skills To Develop Project",
     "content": "(P3) Determine Required Skills To Develop Project Participating roles: (Specific) Project Admin Work Team TSP Leader TSP Coach Activity Description Alongside everyone in the core TSP process, and the project admin, determine the skills that will be needed in order to fulfill the project. Select enough people that will fit for each of those skill requirements (now the work team), and shedule time for training in case people with required skills aren’t in the team or available to acquire.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p3/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p3/"
   },
-  "58": {
-    "id": "58",
+  "59": {
+    "id": "59",
     "title": "(P4) Determine PSP Team Type Required",
     "content": "(P4) Determine PSP Team Type Required Participating roles: Work Team TSP Leader TSP Coach Taking into consideration the different profiles in the TSP team, determine the best TSP type to fit both the human resources available and the project at hand. (TSPf, TSPd, TSPI, etc.)",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p4/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p4/"
   },
-  "59": {
-    "id": "59",
+  "60": {
+    "id": "60",
     "title": "(P5.1) Train Development Team Members",
     "content": "(P5.1) Train Development Team Members Participating roles: Work Team TSP Coach In the scenario there are team members in need of training, or have yet to achieve a minimum PSP level, they will be trained in parallel.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p5_1/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p5_1/"
   },
-  "60": {
-    "id": "60",
+  "61": {
+    "id": "61",
     "title": "(P5.2) Define All Cycles Required To Develop Product",
     "content": "(P5.2) Define All Cycles Required To Develop Product Participating roles: (Specific) Project Admin Activity Description Identify the number of cycles, the activities specific for each of those cycles, and their respective components needed to fulfill with the delieverables defined in the project description. Identify the activities needed to develop the entrance protocol, documenting the result as a cycles and work products list.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p5_2/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p5_2/"
   },
-  "61": {
-    "id": "61",
+  "62": {
+    "id": "62",
     "title": "(P6) Define Dependencies And Relationships Of Activities",
     "content": "(P6) Define Dependencies And Relationships Of Activities Participating roles: (Specific) Project Admin Activity Description Identify and document the relationships and dependencies between all defined activities.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p6/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p6/"
   },
-  "62": {
-    "id": "62",
+  "63": {
+    "id": "63",
     "title": "(P7) Based On Skillsets, Assign Roles, And Delieverables",
     "content": "(P7) Based On Skillsets, Assign Roles, And Delieverables Participating roles: (Specific) Project Admin Process Manager Work Team TSP Leader Activity Description Taking into account the different profiles within the TSP team, assign roles and delieverables accordingly to the people that will be developing it.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p7/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p7/"
   },
-  "63": {
-    "id": "63",
+  "64": {
+    "id": "64",
     "title": "(P8) Determine Tasks Development Times",
     "content": "(P8) Determine Tasks Development Times Participating roles: Work Team Software Development and Maintenance Manager TSP Leader Activity Description Making use of the core strength of PSP time planning, allow each of the TSP members that were assigned tasks, to make an educated guess (making use of their historic data) as to how long they will spend developing their delieverables.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p8/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p8/"
   },
-  "64": {
-    "id": "64",
+  "65": {
+    "id": "65",
     "title": "(P9) Make A Project Cost Estimate",
     "content": "(P9) Make A Project Cost Estimate Participating roles: Work Team TSP Coach TSP Leader Activity Description Making use of the same PSP historic data from the previous step, and the now obtained estimated time, make a rough estimate for the project development cost.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/p9/",
     "relUrl": "/phases/operations/specific_project_administration/planification/p9/"
   },
-  "65": {
-    "id": "65",
+  "66": {
+    "id": "66",
     "title": "Planification",
     "content": "Planification",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/planification/",
     "relUrl": "/phases/operations/specific_project_administration/planification/"
-  },
-  "66": {
-    "id": "66",
-    "title": "(R1) Activity Distribution",
-    "content": "(R1) Activity Distribution Participating roles: Software Development and Maintenance Manager Analyst Activity Description Distribution of activities to team members in accordance to the corresponding roles in the current Development Plan.",
-    "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/r1/",
-    "relUrl": "/phases/operations/software_development_and_maintenance/requirements/r1/"
   },
   "67": {
     "id": "67",
@@ -477,45 +477,45 @@
   },
   "68": {
     "id": "68",
+    "title": "(R1) Activity Distribution",
+    "content": "(R1) Activity Distribution Participating roles: Software Development and Maintenance Manager Analyst Activity Description Distribution of activities to team members in accordance to the corresponding roles in the current Development Plan.",
+    "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/r1/",
+    "relUrl": "/phases/operations/software_development_and_maintenance/requirements/r1/"
+  },
+  "69": {
+    "id": "69",
     "title": "(R10) Checkpoint Meeting",
     "content": "(R10) Checkpoint Meeting Participating roles: (Specific) Project Admin Software Development and Maintenance Manager TSP Leader TSP Coach Activity Description Taking into account the checkpoint (milesone reached), discuss the different issues, roadblocks and problems encountered, such as process implementation, data gathering, data analysis, and look for solutions to those detected problems.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/realization/r10/",
     "relUrl": "/phases/operations/specific_project_administration/realization/r10/"
   },
-  "69": {
-    "id": "69",
+  "70": {
+    "id": "70",
     "title": "(R11) Stakeholder Communication",
     "content": "(R11) Stakeholder Communication Participating roles: Client Work Team TSP Leader Activity Description Via project tracking reports, prompt news (in case of bad scenarios), and status reports keep constant (or at least, scheduled) communication with stakeholders regarding the state of the project. While this is an intended “always running” process, this moment in the sequence is preffered to present progress demos for further feedback.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/realization/r11/",
     "relUrl": "/phases/operations/specific_project_administration/realization/r11/"
   },
-  "70": {
-    "id": "70",
+  "71": {
+    "id": "71",
     "title": "(R12) Replanning",
     "content": "(R12) Replanning Participating roles: (Specific) Project Admin Client Work Team TSP Leader Activity Description Hold periodic short replanning meetings, to ensure that the team stays on track and maintains its motivation, in which the team leader reviews the current management priorities, and the team members summarize their status and adjust their individual and team plans as needed to address those priorities.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/realization/r12/",
     "relUrl": "/phases/operations/specific_project_administration/realization/r12/"
   },
-  "71": {
-    "id": "71",
+  "72": {
+    "id": "72",
     "title": "(R2) Distribute Any Relevant Information To The Development Team",
     "content": "(R2) Distribute Any Relevant Information To The Development Team Participating roles: (Specific) Project Admin Software Development and Maintenance Manager Activity Description Come to an agreement for the distribution of the information required for the work team, based on the communication and implanantation plan.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/realization/r2/",
     "relUrl": "/phases/operations/specific_project_administration/realization/r2/"
   },
-  "72": {
-    "id": "72",
+  "73": {
+    "id": "73",
     "title": "(R2) Identify and Consult Sources",
     "content": "(R2) Identify and Consult Sources Participating roles: Analyst Client User User Interface Designer Activity Description Document or modify the Software Requirement Specification: Identify and consult information sources (clients, users, previous systems, documents, etc.) to obtain new requirements. Analyze identified requirements to limit scope and feasibility. Elaboration or modification of the user interface prototype. Generate or update the Software Requirement Specification.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/r2/",
     "relUrl": "/phases/operations/software_development_and_maintenance/requirements/r2/"
-  },
-  "73": {
-    "id": "73",
-    "title": "(R3) Verification and Validation",
-    "content": "(R3) Verification and Validation Participating roles: Auditor Analyst User Interface Designer Client User Tester Activity Description Verifification of the Software Requirement Specification (SRS). Make corrections to the SRS based on the verification report and obtain correction approval. Validation of the SRS. Correction of defects found in the SRS based in the validation report and obtaintion of correction approval.",
-    "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/r3/",
-    "relUrl": "/phases/operations/software_development_and_maintenance/requirements/r3/"
   },
   "74": {
     "id": "74",
@@ -526,10 +526,10 @@
   },
   "75": {
     "id": "75",
-    "title": "(R4) System Test Plan Elaboration",
-    "content": "(R4) System Test Plan Elaboration Participating roles: Analyst Tester Activity Description Elaboration or modification of system test plan.",
-    "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/r4/",
-    "relUrl": "/phases/operations/software_development_and_maintenance/requirements/r4/"
+    "title": "(R3) Verification and Validation",
+    "content": "(R3) Verification and Validation Participating roles: Auditor Analyst User Interface Designer Client User Tester Activity Description Verifification of the Software Requirement Specification (SRS). Make corrections to the SRS based on the verification report and obtain correction approval. Validation of the SRS. Correction of defects found in the SRS based in the validation report and obtaintion of correction approval.",
+    "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/r3/",
+    "relUrl": "/phases/operations/software_development_and_maintenance/requirements/r3/"
   },
   "76": {
     "id": "76",
@@ -540,38 +540,38 @@
   },
   "77": {
     "id": "77",
+    "title": "(R4) System Test Plan Elaboration",
+    "content": "(R4) System Test Plan Elaboration Participating roles: Analyst Tester Activity Description Elaboration or modification of system test plan.",
+    "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/r4/",
+    "relUrl": "/phases/operations/software_development_and_maintenance/requirements/r4/"
+  },
+  "78": {
+    "id": "78",
     "title": "(R5) Plan, Revise And Audio The Subcontractor's Activities",
     "content": "(R5) Plan, Revise And Audio The Subcontractor’s Activities Participating roles: (Specific) Project Admin Subcontract Responsible Software Development and Maintenance Manager Activity Description Manage the subcontration relantionships, which involves to plan, revise, and audit the activities, ensuring end product quality and that it complies with the acceptance standards with the agreed specifications.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/realization/r5/",
     "relUrl": "/phases/operations/specific_project_administration/realization/r5/"
   },
-  "78": {
-    "id": "78",
+  "79": {
+    "id": "79",
     "title": "(R5) Verification of System Plan",
     "content": "(R5) Verification of System Plan Participating roles: Auditor Tester Activity Description Verification of system test plan. Correction of system test plan based on the verification report and obtention of correction approval.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/r5/",
     "relUrl": "/phases/operations/software_development_and_maintenance/requirements/r5/"
   },
-  "79": {
-    "id": "79",
+  "80": {
+    "id": "80",
     "title": "(R6) Using PSP, Implement All Modules & Work Products",
     "content": "(R6) Using PSP, Implement All Modules &amp; Work Products Participating roles: Work Team TSP Leader TSP Coach Activity Description Give each of the PSP team members enough time to develop the concrete end modules for the end project, keeping close touch and adjusting any time and cost predictions accordingly.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/realization/r6/",
     "relUrl": "/phases/operations/specific_project_administration/realization/r6/"
   },
-  "80": {
-    "id": "80",
+  "81": {
+    "id": "81",
     "title": "(R6) User Manual Documentation",
     "content": "(R6) User Manual Documentation Participating roles: Manual Responsible Activity Description Document preliminary version of User Manual or modification of existing one.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/r6/",
     "relUrl": "/phases/operations/software_development_and_maintenance/requirements/r6/"
-  },
-  "81": {
-    "id": "81",
-    "title": "(R7) Construct & Put Together Program Modules",
-    "content": "(R7) Construct &amp; Put Together Program Modules Participating roles: Work Team Activity Description Once finished the different modules that satisfy their acceptance criteria, implement their interactivity and functionality for the overall product. The final product of this process will depend on the specific cycle requirements.",
-    "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/realization/r7/",
-    "relUrl": "/phases/operations/specific_project_administration/realization/r7/"
   },
   "82": {
     "id": "82",
@@ -582,10 +582,10 @@
   },
   "83": {
     "id": "83",
-    "title": "(R8) Incorporate Created Documents",
-    "content": "(R8) Incorporate Created Documents Participating roles: Software Development and Maintenance Manager Activity Description Incorporation of SRS, System Test Plan and User Manual to the Software Configuration.",
-    "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/r8/",
-    "relUrl": "/phases/operations/software_development_and_maintenance/requirements/r8/"
+    "title": "(R7) Construct & Put Together Program Modules",
+    "content": "(R7) Construct &amp; Put Together Program Modules Participating roles: Work Team Activity Description Once finished the different modules that satisfy their acceptance criteria, implement their interactivity and functionality for the overall product. The final product of this process will depend on the specific cycle requirements.",
+    "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/realization/r7/",
+    "relUrl": "/phases/operations/specific_project_administration/realization/r7/"
   },
   "84": {
     "id": "84",
@@ -596,83 +596,90 @@
   },
   "85": {
     "id": "85",
+    "title": "(R8) Incorporate Created Documents",
+    "content": "(R8) Incorporate Created Documents Participating roles: Software Development and Maintenance Manager Activity Description Incorporation of SRS, System Test Plan and User Manual to the Software Configuration.",
+    "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/r8/",
+    "relUrl": "/phases/operations/software_development_and_maintenance/requirements/r8/"
+  },
+  "86": {
+    "id": "86",
     "title": "(R9) Register Performed Activities",
     "content": "(R9) Register Performed Activities Participating roles: Software Development and Maintenance Manager Activity Description Elaboration of activities report indicating the fulfilled actiivties, start and end date, and person responsible of fulfilling the activity.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/r9/",
     "relUrl": "/phases/operations/software_development_and_maintenance/requirements/r9/"
   },
-  "86": {
-    "id": "86",
+  "87": {
+    "id": "87",
     "title": "(R9) Weekly Meeting",
     "content": "(R9) Weekly Meeting Participating roles: (Specific) Project Admin Software Development and Maintenance Manager TSP Leader TSP Coach Activity Description Assessing the earned value, task hour status, key milestones reviews, an overall assessment on the progress done and remaining workload. Taking any measures necesarry to improve quality and the overall development process for the next cycle.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/realization/r9/",
     "relUrl": "/phases/operations/specific_project_administration/realization/r9/"
   },
-  "87": {
-    "id": "87",
+  "88": {
+    "id": "88",
     "title": "Realization",
     "content": "Realization",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/realization/",
     "relUrl": "/phases/operations/specific_project_administration/realization/"
   },
-  "88": {
-    "id": "88",
+  "89": {
+    "id": "89",
     "title": "Requirements",
     "content": "Requirements",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/requirements/",
     "relUrl": "/phases/operations/software_development_and_maintenance/requirements/"
   },
-  "89": {
-    "id": "89",
+  "90": {
+    "id": "90",
     "title": "(S1) Team Review",
     "content": "(S1) Team Review Participating roles: Work Team Activity Description Review with team members current Development Plan to achieve a common understanding and gain their commitment to the proyect.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/start/s1/",
     "relUrl": "/phases/operations/software_development_and_maintenance/start/s1/"
   },
-  "90": {
-    "id": "90",
+  "91": {
+    "id": "91",
     "title": "(S2) Register Performed Activities",
     "content": "(S2) Register Performed Activities Participating roles: Software Development and Maintenance Manager Activity Description Report Activities elaboration with registration of the activites done, start and end dates, responsible of activity and required measurements.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/start/s2/",
     "relUrl": "/phases/operations/software_development_and_maintenance/start/s2/"
   },
-  "91": {
-    "id": "91",
+  "92": {
+    "id": "92",
     "title": "Software Development and Maintenance",
     "content": "Software Development and Maintenance View Full Image Click on any of the areas above to get more in-depth information. General Purpose Systematic realization of activities for analysis, design, construction, integration and product tests of new or modified software fulfilling the specified requirements. Process Objectives Consistency of output products with input products in each fase of the development life cycle through verification, calidation or test activities. Sustainability of later cycles or future maintainability projects through integration of the Software Configuration from the current cycle. Carry out fase activities through the fulfillment of the current development plan.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/software_development_and_maintenance/",
     "relUrl": "/phases/operations/software_development_and_maintenance/"
   },
-  "92": {
-    "id": "92",
+  "93": {
+    "id": "93",
     "title": "Specific Project Administration",
     "content": "Specific Project Administration View Full Image Click on any of the areas above to get more in-depth information. General Purpose The purpose of Specific Project Administration, is to define and systematically execute the different core activities that aim to accomplish the project objectives, all within a pre-established set of budgeted time and overall cost. Process Objectives Via resource management and intentional team coordination, accomplish all project objectives within a projected cost and time frame. Listen to, and accordingly process any feature request or proposition changes from the client, to the project. By pertinent analysis of them as they come. Keep the client up-to-date of the project’s development progress, via weekly meetings. Develop a product while also staying within healthy cost and time estimate thresholds, by the constant gathering of historic metric values that provide a well educated guess on a per-developer, per-activity basis. Keep a constant learning curve throughout each iteration of the process, as well as the end of the development cycle, in order to ensure continuous improvement within the team, and the current project’s quality.",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/",
     "relUrl": "/phases/operations/specific_project_administration/"
   },
-  "93": {
-    "id": "93",
+  "94": {
+    "id": "94",
     "title": "Start",
     "content": "Start",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/start/",
     "relUrl": "/phases/operations/specific_project_administration/start/"
   },
-  "94": {
-    "id": "94",
+  "95": {
+    "id": "95",
     "title": "Test and Integration",
     "content": "Test and Integration",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/specific_project_administration/test_and_integration/",
     "relUrl": "/phases/operations/specific_project_administration/test_and_integration/"
   },
-  "95": {
-    "id": "95",
+  "96": {
+    "id": "96",
     "title": "",
     "content": "",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/operations/",
     "relUrl": "/phases/operations/"
   },
-  "96": {
-    "id": "96",
+  "97": {
+    "id": "97",
     "title": "",
     "content": "",
     "url": "https://arzolaescuela.github.io/tsp-psp/phases/",
