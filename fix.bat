@@ -7,3 +7,5 @@ fart -i -r *.html roles/ tsp-psp/roles/
 fart -i -r *.html tsp-psp/tsp-psp/roles/ tsp-psp/roles/
 fart -i -r *.html phases/ tsp-psp/phases/
 fart -i -r *.html tsp-psp/tsp-psp/phases/ tsp-psp/phases/
+fart -i -r *.html documents/ tsp-psp/documents/
+fart -i -r *.html tsp-psp/tsp-psp/documents/ tsp-psp/documents/
