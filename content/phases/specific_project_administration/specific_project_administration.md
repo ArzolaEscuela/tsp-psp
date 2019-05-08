@@ -74,7 +74,7 @@ redirect_from:
     <area target="" alt="" title="" href="/documents/weekly_status_report.doc" coords="611,722,795,776" shape="rect">
     <area target="" alt="" title="" href="/documents/pointers_and_agreements_minute.doc" coords="237,768,400,844" shape="rect">
     <area target="" alt="" title="" href="/documents/corrective_actions.doc" coords="349,1117,523,1178" shape="rect">
-    <area target="" alt="" title="" href="/documents/tracing_document.doc" coords="954,1062,1101,1132" shape="rect">
+    <area target="" alt="" title="" href="/documents/tracing_document.xlsx" coords="954,1062,1101,1132" shape="rect">
     <area target="" alt="" title="" href="/documents/acceptance_document.doc" coords="1059,1310,1218,1401" shape="rect">
   </map>
 </div>

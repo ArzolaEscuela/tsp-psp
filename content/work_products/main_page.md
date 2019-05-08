@@ -25,5 +25,5 @@ The following is a list of the different documents that will support the develop
 * [Weekly Status Report](/documents/weekly_status_report.doc)
 * [Pointers & Agreements Minute](/documents/pointers_and_agreements_minute.doc)
 * [Corrective Actions](/documents/corrective_actions.doc)
-* [Tracing Document](/documents/tracing_document.doc)
+* [Tracing Document](/documents/tracing_document.xlsx)
 * [Acceptance Document](/documents/acceptance_document.doc)
